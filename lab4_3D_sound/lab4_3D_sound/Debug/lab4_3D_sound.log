@@ -1,0 +1,3 @@
+﻿  main.cpp
+E:\учеба\политех\4сем\эвм\lab4_3D_sound\lab4_3D_sound\main.cpp(46,27): warning C4305: аргумент: усечение из "double" в "float"
+  lab4_3D_sound.vcxproj -> E:\учеба\политех\4сем\эвм\lab4_3D_sound\Debug\lab4_3D_sound.exe
